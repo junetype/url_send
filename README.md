@@ -5,3 +5,5 @@
 #@title **SECOND (Optional):**
 #@markdown Anti shutdown colab (play and keep this colab tab open):
 ! sleep 4320
+
+https://dashboard.hcaptcha.com/welcome_accessibility
