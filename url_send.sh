@@ -32,4 +32,3 @@ then
 else
     printf "\n\nError Occured " >&2
 fi
-© 2021 GitHub, Inc. 
